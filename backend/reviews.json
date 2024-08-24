@@ -1,0 +1,154 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. John Smith",
+            "review": "Very knowledgeable and approachable.",
+            "subject": "Physics",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Emily Johnson",
+            "review": "Makes complex topics easy to understand.",
+            "subject": "Chemistry",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Michael Brown",
+            "review": "Engaging lectures and helpful office hours.",
+            "subject": "Biology",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Sarah Davis",
+            "review": "Very organized and clear in her teaching.",
+            "subject": "History",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. David Wilson",
+            "review": "Challenging but fair exams.",
+            "subject": "Computer Science",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Laura Martinez",
+            "review": "Passionate about the subject and it shows.",
+            "subject": "Literature",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. James Anderson",
+            "review": "Great at explaining difficult concepts.",
+            "subject": "Economics",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Linda Thomas",
+            "review": "Very supportive and encouraging.",
+            "subject": "Psychology",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Robert Jackson",
+            "review": "Interesting lectures and good feedback.",
+            "subject": "Philosophy",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Barbara White",
+            "review": "Very knowledgeable and experienced.",
+            "subject": "Sociology",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. William Harris",
+            "review": "Engaging and thought-provoking classes.",
+            "subject": "Political Science",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Patricia Clark",
+            "review": "Excellent at making the material interesting.",
+            "subject": "Anthropology",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Christopher Lewis",
+            "review": "Very clear and concise in his teaching.",
+            "subject": "Statistics",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Jennifer Walker",
+            "review": "Always available for extra help.",
+            "subject": "Geography",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Daniel Hall",
+            "review": "Great sense of humor and engaging lectures.",
+            "subject": "Art History",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Elizabeth Allen",
+            "review": "Very patient and understanding.",
+            "subject": "Education",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Matthew Young",
+            "review": "Challenging but rewarding classes.",
+            "subject": "Engineering",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Karen King",
+            "review": "Very passionate about teaching.",
+            "subject": "Environmental Science",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Richard Wright",
+            "review": "Great at making the material relatable.",
+            "subject": "Business",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Susan Scott",
+            "review": "Very organized and clear in her lectures.",
+            "subject": "Nursing",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Charles Green",
+            "review": "Very knowledgeable and helpful.",
+            "subject": "Law",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Jessica Adams",
+            "review": "Makes learning fun and interesting.",
+            "subject": "Music",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Mark Baker",
+            "review": "Very supportive and encouraging.",
+            "subject": "Theater",
+            "stars": 4
+        },
+        {
+            "professor": "Dr. Nancy Nelson",
+            "review": "Great at explaining complex topics.",
+            "subject": "Linguistics",
+            "stars": 5
+        },
+        {
+            "professor": "Dr. Paul Carter",
+            "review": "Very engaging and thought-provoking.",
+            "subject": "Philosophy",
+            "stars": 4
+        }
+    ]
+}
