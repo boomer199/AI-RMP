@@ -6,6 +6,9 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --primary-color: #1a73e8;
+  --secondary-color: #ff4081;
+  --border-radius: 8px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -16,6 +19,45 @@
   }
 }
 
+body {
+  background: linear-gradient(135deg, rgba(var(--background-start-rgb), 1), rgba(var(--background-end-rgb), 1));
+  color: rgb(var(--foreground-rgb));
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+}
+
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: darken(var(--primary-color), 10%);
+}
+
+input, textarea {
+  border: 1px solid rgba(var(--foreground-rgb), 0.2);
+  border-radius: var(--border-radius);
+  padding: 0.5rem;
+  width: 100%;
+}
 
 @layer utilities {
   .text-balance {
