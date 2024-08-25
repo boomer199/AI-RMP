@@ -154,14 +154,11 @@ export default function Home() {
           p={4}
           className="rounded-lg bg-white"
         >
-          <Typography variant="h6" component="h3" className="text-black">
-            How to Use
-          </Typography>
           <Typography sx={{ mt: 2 }} className="text-black">
             1. Type your question in the message box.
           </Typography>
           <Typography sx={{ mt: 2 }} className="text-black">
-            2. Click the "Send" button to submit your question.
+            2. Click the &quot;Send&quot; button to submit your question.
           </Typography>
           <Typography sx={{ mt: 2 }} className="text-black">
             3. The assistant will respond to your question.
